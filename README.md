@@ -1,2 +1,2 @@
 # hello-world
-says hello
+says hello to the world and society
